@@ -96,6 +96,7 @@ separate exporters are needed:
    * [cAdvisor](https://github.com/google/cadvisor)
    * [Doorman](https://github.com/youtube/doorman)
    * [Etcd](https://github.com/coreos/etcd)
+   * [linkerd](https://github.com/BuoyantIO/linkerd)
    * [Kubernetes-Mesos](https://github.com/mesosphere/kubernetes-mesos)
    * [Kubernetes](https://github.com/GoogleCloudPlatform/kubernetes)
    * [RobustIRC](http://robustirc.net/)
